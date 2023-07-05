@@ -1,0 +1,7 @@
+venv/
+archive/
+*.h5
+*.pkl
+*.zip
+*.json
+*.csv
